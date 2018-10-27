@@ -1,0 +1,9 @@
+.img-responsive {
+    margin: 0 auto;
+}
+img {
+    filter: grayscale(100%);
+}
+body {
+  margin-top: 60px;
+}
